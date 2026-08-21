@@ -6,5 +6,5 @@ I'm Rita Elizabeth Robledo. 🇨🇱
 - 🌱 I'm still learning
 
 ## 📫 Contact
-- LinkedIn: [https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/rita-elizabeth-robledo)
+- LinkedIn: (https://www.linkedin.com/in/rita-elizabeth-robledo)
 - Email: robledo.elizabeth.rita@email.com
