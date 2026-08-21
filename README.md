@@ -7,4 +7,4 @@ I'm Rita Elizabeth Robledo. 🇨🇱
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/rita-elizabeth-robledo)
-- Email: robledo.elizabeth.rita@email.com
+- [![Email](https://shields.io)](mailto:robledo.elizabeth.rita@email.com)
